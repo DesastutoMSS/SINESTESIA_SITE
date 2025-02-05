@@ -1,0 +1,118 @@
+body {
+    flex: auto;
+    background-color: rgb(170, 136, 202);
+}
+
+header {
+    background-color: rgb(255, 187, 104);
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.prin {
+    color: brown;
+}
+
+.subN {
+    background-color: blueviolet;
+    box-shadow: 1px 1px 1px 1px;
+    flex-direction: row;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.subbMa {
+    margin-left: 10px;
+    background-color: darksalmon;  
+}
+
+.subbJ {
+    margin-left: 10px;
+    background-color: darksalmon;
+}
+
+.subbR {
+    margin-left: 10px;
+    background-color: darksalmon;
+}
+
+.subbMi {
+    margin-left: -3px;    
+    background-color: darksalmon;
+}
+
+.subbE {
+    margin-left: 17px;
+    background-color: darksalmon;
+}
+
+.subbA {
+    margin-left: 2px;
+    background-color: darksalmon;
+}
+.subM {
+    background-color: blueviolet;
+    box-shadow: 1px 1px 1px 1px;
+    flex-direction: row;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.dec{
+    background-color: darksalmon;
+}
+
+#textb {
+    background-color: none;
+    font-size: 20px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.nav {
+    flex-direction: row;
+}
+
+#pipemenu {
+    margin-left: 50px;
+    margin-right: -50px;
+}
+
+button {
+    margin-right: 50px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+button.lbutton {
+    margin-left: 50px
+}
+
+button.rbutton {
+    margin-right: 0;
+}
+
+.fotochar {
+    max-height: 160px;
+    max-width: 160px;
+    margin-top: -150px;
+    margin-left: -3px;
+    margin-bottom: -145px;
+}
+
+.Leg {
+    padding: 1px;
+}
+
+#action-btn {
+    box-shadow: 1px 1px 1px 1px;
+    margin-left: 700px;
+    margin-top: 120px;
+}
+
+.containerchar {
+    background-color: rgb(93, 63, 177);
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#boxlongT {
+    display: none;
+}
